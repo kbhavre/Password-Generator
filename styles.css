@@ -15,6 +15,8 @@
   --border: #ff6868;
 
   --dk-text: hsl(198, 20%, 13%);
+
+  font-family: 'Josefin Sans', sans-serif;
 }
 
 body {
@@ -44,6 +46,8 @@ h1 {
   letter-spacing: 2px;
   text-align: center;
   line-height: 1.2;
+  font-family: 'Yatra One', system-ui;
+  font-weight: 600;
 }
 
 .display-container {
